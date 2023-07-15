@@ -1,4 +1,5 @@
 # TecDrop
+Live site have some issue in heroku. I will fix it asap.
 
 # Live
 Site link: https://tecdrop.herokuapp.com/
